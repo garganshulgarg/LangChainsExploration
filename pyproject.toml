@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "langchainsexploration"
+version = "0.1.0"
+description = "Your gateway to exploring the fascinating world of programming languages and language chains."
+authors = ["Anshul Garg <anshulgarg.cse@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.9.18"
+langchain = "^0.0.285"
+openai = "^0.28.0"
+black = "^23.9.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
