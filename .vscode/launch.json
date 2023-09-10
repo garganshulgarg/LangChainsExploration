@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Langchain Runner",
+            "name": "Python Runner",
             "type": "python",
             "request": "launch",
             "program": "${file}",
